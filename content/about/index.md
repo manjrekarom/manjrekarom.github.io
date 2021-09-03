@@ -1,9 +1,9 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
 title = "About"
 +++
 
-Hi! My name is Omkar Manjrekar, and I’m an Application Developer at e-Yantra. I'll be joining [Stony Brook University](https://www.cs.stonybrook.edu/) for a Masters in Computer Science in Spring'21. I specialize in Web Application Development, large-scale and distributed systems.
+Hi! I am Omkar Manjrekar from Mumbai, India. I work as an application developer at e-Yantra, Mumbai. I'll be joining [Stony Brook University](https://www.cs.stonybrook.edu/) for a Masters in Computer Science in Fall 2021. I have built packages for automation, web and mobile apps, and some deep learning based applications. I am curious about many things and like to learn about them in my spare time (currently that would be operating systems). I am interested in solving hard problems, learning whatever needed. As of now I am working on a [problem]() involving machine reading.
+
 
 hhhhyhhhhhhhhhhdddddddmmmmmmmmmmmddddmmmmNNNNNNNmmmmmmmddddddddhhhhhhhhhhhhhhhhhhhhhhhhhhyhyyyyyyyyy
 hhhhhhhhhhhhhddddddddmmmmmmmmmhsso+/::/+ohdddNNNNNmmmmmmddddddddddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhy

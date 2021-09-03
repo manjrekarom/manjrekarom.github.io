@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Omkar's Blog"
 theme = "hugo-theme-console"
 
 [params]
@@ -20,5 +20,8 @@ theme = "hugo-theme-console"
   url = "posts/"
   
   [[params.navlinks]]
-  name = "photos/"
-  url = "photos/"
+  name = "projects/"
+  url = "projects/"
+  # [[params.navlinks]]
+  # name = "photos/"
+  # url = "photos/"
